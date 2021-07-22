@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shophere/static/css/main.d6faa070.chunk.css",
+    "main.js": "/shophere/static/js/main.318807ee.chunk.js",
+    "main.js.map": "/shophere/static/js/main.318807ee.chunk.js.map",
+    "runtime-main.js": "/shophere/static/js/runtime-main.546560a5.js",
+    "runtime-main.js.map": "/shophere/static/js/runtime-main.546560a5.js.map",
+    "static/js/2.5f452018.chunk.js": "/shophere/static/js/2.5f452018.chunk.js",
+    "static/js/2.5f452018.chunk.js.map": "/shophere/static/js/2.5f452018.chunk.js.map",
+    "static/js/3.31ebec48.chunk.js": "/shophere/static/js/3.31ebec48.chunk.js",
+    "static/js/3.31ebec48.chunk.js.map": "/shophere/static/js/3.31ebec48.chunk.js.map",
+    "index.html": "/shophere/index.html",
+    "static/css/main.d6faa070.chunk.css.map": "/shophere/static/css/main.d6faa070.chunk.css.map",
+    "static/js/2.5f452018.chunk.js.LICENSE.txt": "/shophere/static/js/2.5f452018.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.546560a5.js",
+    "static/js/2.5f452018.chunk.js",
+    "static/css/main.d6faa070.chunk.css",
+    "static/js/main.318807ee.chunk.js"
+  ]
+}
